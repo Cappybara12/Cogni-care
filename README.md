@@ -55,11 +55,11 @@ Here are some screenshots of the Cogni Care application:
 
 ### Input and Analysis
 
-![Input and Analysis](/screenshots/input-analysis.png)
+![Input and Analysis](https://github.com/Cappybara12/Cogni-care/assets/122734275/c81dd7f4-42bd-4185-bcf4-8165f2167180)
 
 ### Therapist's View
 
-![Therapist's View](/screenshots/therapist-view.png)
+![Therapist's View](https://github.com/Cappybara12/Cogni-care/assets/122734275/19779c8d-d373-4c39-a0bd-2de797cd85a4)
 
 ## How to Run Locally
 
